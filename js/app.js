@@ -25,7 +25,7 @@
 
   // https://groups.google.com/group/alt.hypertext/msg/06dad279804cb3ba?dmode=source
   var DEMO_MS = 681490580000,
-    DEMO_PAST = 'The World Wide Web debuted',
+    DEMO_PAST = 'Your beard has been growing for',
     DEMO_FUTURE = 'The World Wide Web debuts';
 
   // adjust initial demo time for local timezone
